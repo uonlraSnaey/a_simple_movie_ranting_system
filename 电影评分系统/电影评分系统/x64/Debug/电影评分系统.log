@@ -1,0 +1,9 @@
+﻿  manager.cpp
+  mManager.cpp
+  moive.cpp
+  pManager.cpp
+  user.cpp
+  main.cpp
+C:\Users\jjf17\Desktop\mv\1\Movie-Rating_β\Movie-Rating\电影评分系统\电影评分系统\main.cpp(19,9): warning C4930: “std::string getTime(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  正在生成代码...
+  电影评分系统.vcxproj -> C:\Users\jjf17\Desktop\mv\1\Movie-Rating_β\Movie-Rating\电影评分系统\x64\Debug\电影评分系统.exe
